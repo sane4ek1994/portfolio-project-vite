@@ -2,7 +2,6 @@ import './App.css'
 import {Header} from "./components/header/Header.tsx";
 import {MainBlock} from "./components/main/Main.tsx";
 import {Skills} from "./components/skills/Skills.tsx";
-import 'normalize.css';
 import {MyProject} from "./components/myProject/MyProject.tsx";
 import {Promo} from "./components/promo/Promo.tsx";
 import {Form} from "./components/form/Form.tsx";
