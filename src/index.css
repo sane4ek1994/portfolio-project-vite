@@ -1,0 +1,6 @@
+@import 'reset-css';
+/* Что то не работает normalize.css 🤔🤔🤔🤔*/
+
+* {
+    box-sizing: border-box;
+}
